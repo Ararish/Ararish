@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ararish
+- 👋 Hi, I’m Ashish
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning android development
 
